@@ -4,4 +4,6 @@
 npm install
 npm run build
 npm run start
+
+# visit http://<host>:<port>/
 ```
